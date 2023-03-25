@@ -18,4 +18,8 @@
 
 **Some of My Public Repositories**
 
+- **[Link](https://google.com)** SOLID Principles.
+- **[Link](https://google.com)** Data modeling.
+- **[Link](https://google.com)** Discounts and Coupons.
+- **[Link](https://google.com)** Third party services.
 
