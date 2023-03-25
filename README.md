@@ -10,12 +10,13 @@
 
 **Languages and Tools**
 
-<code><img height="35rem" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png"/></code>
-<code><img height="35rem" src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png"/></code>
-<code><img height="35rem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU6FYnMwbFvkzhVBxiqbCQI9HP-3z-hlJ32g"/></code>
-<code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/256/laravel-256.png"/></code>
-<code><img height="35rem" src="https://cdn.freebiesupply.com/logos/large/2x/symfony-logo-png-transparent.png"/></code>
-<code><img height="35rem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4xkLhyVcNIBWRAJjvGbid1vBcFA4jQRUZ5aWZkf3vljOUgO4wNjTzVSGNWIUiUSmLo6k&usqp=CAU"/></code>
+<code><img height="35rem" src="img/js.webp"/></code>
+<code><img height="35rem" src="img/css-3.webp"/></code>
+<code><img height="35rem" src="img/php.png"/></code>
+<code><img height="35rem" src="img/laravel.webp"/></code>
+<code><img height="35rem" src="img/symfony-logo.png"/></code>
+<code><img height="35rem" src="img/phpstorm.jpg"/></code>
+<code><img height="35rem" src="img/navicat.jfif"/></code>
 
 <hr>
 
