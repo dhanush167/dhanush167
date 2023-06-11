@@ -1,6 +1,16 @@
 ### Hi there 👋
 ### Im Dhanushka Gayan
 
+<p>
+ 
+I have experience in developing projects with scrum
+and agile methodology also have
+built SAAS applications for
+various startups and have worked
+in teams as a remote front-end/back-end developer.
+ 
+</p>
+
  
 - 🔭 ❤️ Algorithms ...
 - 🌱 ❤️‍ Design patterns ...
