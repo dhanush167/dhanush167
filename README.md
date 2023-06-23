@@ -20,7 +20,7 @@ in teams as a remote front-end/back-end developer.
 - 📫 ❤️ Modular development as well as numbers, statistics and calculations: ...
 
 
-**Languages and Tools**
+**Languages,Frameworks and Tools**
 
 <code><img height="35rem" src="img/js.webp"/></code>
 <code><img height="35rem" src="img/jquery.png"/></code>
