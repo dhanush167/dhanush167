@@ -1,9 +1,7 @@
 ### Hi there 👋
 ### Im Dhanushka /  Web application developer
 
-<p>
-I have experience in developing projects using Scrum and Agile methodologies. I have also built SaaS applications for various startups and worked both independently and in teams as a remote front-end and back-end developer
-</p>
+![alt text](https://github.com/dhanush167/dhanush167/blob/main/img/carbon.png?raw=true)
 
 
 - Object-oriented programming  ...
