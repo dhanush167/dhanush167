@@ -1,11 +1,7 @@
 ### Hi there 👋
 ### Im Dhanushka /  Web application developer
 
-
-<p>
-I have experience working in an agile environment and have also built SaaS applications for various startups. 
-I have worked both independently and in teams as a remote frontend and backend developer
-</p>
+<hr>
 
 <h3> 
 <i>
@@ -13,6 +9,15 @@ I have worked both independently and in teams as a remote frontend and backend d
 the people who know how to tailor it " 
 </i> 
 </h3>
+
+<hr>
+
+<p>
+I have experience working in an agile environment and have also built SaaS applications for various startups. 
+I have worked both independently and in teams as a remote frontend and backend developer
+</p>
+
+
 
 <p> Since 2019, I have actively utilized Laravel for: </p>
 
