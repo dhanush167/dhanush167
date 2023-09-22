@@ -7,6 +7,12 @@ I have experience working in an agile environment and have also built SaaS appli
 I have worked both independently and in teams as a remote frontend and backend developer
 </p>
 
+<h3> 
+<i>
+" A successful project requires professionals - 
+the people who know how to tailor it " 
+</i> 
+</h3>
 
 <p> Since 2019, I have actively utilized Laravel for: </p>
 
@@ -45,6 +51,7 @@ I have worked both independently and in teams as a remote frontend and backend d
 <code><img height="35rem" src="img/symfony-logo.png"/></code>
 <code><img height="35rem" src="img/navicat.jfif"/></code>
 <code><img height="35rem" src="img/photoshop.PNG"/></code>
+<code><img height="35rem" src="img/phpstorm.jpg"/></code>
 <code><img height="35rem" src="img/figma.PNG"/></code>
 
 <hr>
