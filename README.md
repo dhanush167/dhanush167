@@ -33,6 +33,7 @@ I have worked both independently and in teams as a remote frontend and backend d
 <p> I have a deep understanding in the following areas: </p>
 
 
+
 <ul>
         <li>Query Builder,</li>
         <li>Eloquent ORM,</li>
@@ -45,6 +46,13 @@ I have worked both independently and in teams as a remote frontend and backend d
         <li>Modular development as well as numbers, statistics and calculations: ...</li>
 </ul>
 
+<ul>
+        <li>CSS BEM CONVENTION </li>
+        <li>CSS 3 </li>
+        <li>BOOTSTRAP 5 </li>
+        <li>HTML 5</li>
+        <li>JS DOM</li>
+</ul>
 
 **Languages,Frameworks and Tools**
 
