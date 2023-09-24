@@ -32,19 +32,7 @@ I have worked both independently and in teams as a remote frontend and backend d
 
 <p> I have a deep understanding in the following areas: </p>
 
-
-
-<ul>
-        <li>Query Builder,</li>
-        <li>Eloquent ORM,</li>
-        <li>Relationships, and Polymorphism</li>
-        <li>Service Container, Service Provider, Queue Jobs, and Facade</li>
-        <li>Handling task scheduling</li>
-        <li>Refactoring queries and optimizing memory usage</li>
-        <li>Object-oriented programming ...</li>
-        <li>SOLID principles ...</li>
-        <li>Modular development as well as numbers, statistics and calculations: ...</li>
-</ul>
+<p> As a frontend developer</p>
 
 <ul>
         <li>CSS BEM CONVENTION </li>
@@ -53,6 +41,22 @@ I have worked both independently and in teams as a remote frontend and backend d
         <li>HTML 5</li>
         <li>JS DOM</li>
 </ul>
+
+<p> As a backend developer </p>
+
+<ul>
+        <li>Query Builder,</li>
+        <li>Eloquent ORM,</li>
+        <li>Relationships, and Polymorphism</li>
+        <li>Service Container, Service Provider, Queue Jobs, and Facade</li>
+        <li>Task Scheduling</li>
+        <li>Refactoring queries and optimizing memory usage</li>
+        <li>Object-oriented programming ...</li>
+        <li>SOLID principles ...</li>
+        <li>Modular development as well as numbers, statistics and calculations...</li>
+</ul>
+
+
 
 **Languages,Frameworks and Tools**
 
