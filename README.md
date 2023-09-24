@@ -38,7 +38,7 @@ I have worked both independently and in teams as a remote frontend and backend d
 
 <ul>
         <li>CSS BEM CONVENTION </li>
-        <li>CSS 3 (Fixing CSS bugs, addressing responsive issues, resolving browser compatibility issues, and handling loading issues)</li>
+        <li>CSS 3 (Fixing CSS bugs, Addressing responsive issues, Resolving browser compatibility issues, and Handling loading issues)</li>
         <li>BOOTSTRAP 5 </li>
         <li>HTML 5</li>
         <li>JS DOM</li>
