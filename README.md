@@ -32,17 +32,21 @@ I have worked both independently and in teams as a remote frontend and backend d
 
 <p> I have a deep understanding in the following areas: </p>
 
-<p> As a frontend developer</p>
+<p> 
+        As a frontend developer:
+</p>
 
 <ul>
         <li>CSS BEM CONVENTION </li>
-        <li>CSS 3 </li>
+        <li>CSS 3 (Fixing CSS bugs, addressing responsive issues, resolving browser compatibility issues, and handling loading issues)</li>
         <li>BOOTSTRAP 5 </li>
         <li>HTML 5</li>
         <li>JS DOM</li>
 </ul>
 
-<p> As a backend developer </p>
+<p> 
+      As a backend developer:
+</p>
 
 <ul>
         <li>Query Builder,</li>
@@ -51,8 +55,8 @@ I have worked both independently and in teams as a remote frontend and backend d
         <li>Service Container, Service Provider, Queue Jobs, and Facade</li>
         <li>Task Scheduling</li>
         <li>Refactoring queries and optimizing memory usage</li>
-        <li>Object-oriented programming ...</li>
-        <li>SOLID principles ...</li>
+        <li>Object-oriented programming </li>
+        <li>SOLID principles </li>
         <li>Modular development as well as numbers, statistics and calculations...</li>
 </ul>
 
