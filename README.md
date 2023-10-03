@@ -3,14 +3,6 @@
 
 <hr>
 
-<h3> 
-<i>
-" A successful project requires professionals - 
-the people who know how to tailor it " 
-</i> 
-</h3>
-
-<hr>
 
 <p>
 I have experience working in an agile environment and have also built SaaS applications for various startups. 
