@@ -70,3 +70,11 @@ I have worked both independently and in teams as a remote frontend and backend d
 <hr>
 
 
+<p> 
+" A successful project requires professionals - 
+the people who know how to tailor it " 
+</p>
+
+
+
+
