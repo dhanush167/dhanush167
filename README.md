@@ -17,7 +17,6 @@ I have worked both independently and in teams as a remote frontend and backend d
         <li>Developing large enterprise applications </li>
         <li>Integrating payment gateways</li>
         <li>Creating e-commerce applications</li>
-        <li>Designing and implementing APIs for mobile applications</li>
         <li>Setting up deployment servers from scratch on Ubuntu</li>
 </ul>
 
