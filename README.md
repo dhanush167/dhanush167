@@ -21,7 +21,7 @@ I have worked both independently and in teams as a remote frontend and backend d
 </ul>
 
 
-<p> I have a deep understanding in the following areas: </p>
+<p>  Deep understanding in the following areas: </p>
 
 <p> 
         As a frontend developer:
