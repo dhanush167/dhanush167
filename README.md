@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Im Dhanushka /  Web application developer
+### Web application developer
 
 <hr>
 
