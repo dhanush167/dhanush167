@@ -41,15 +41,15 @@ I have worked both independently and in teams as a remote frontend and backend d
 </p>
 
 <ul>
-        <li>Query Builder,</li>
-        <li>Eloquent ORM,</li>
-        <li>Relationships, and Polymorphism</li>
-        <li>Service Container, Service Provider, Queue Jobs, and Facade</li>
-        <li>Task Scheduling</li>
-        <li>Refactoring queries and optimizing memory usage</li>
-        <li>Object-oriented programming </li>
-        <li>SOLID principles </li>
-        <li>Modular development as well as numbers, statistics and calculations...</li>
+        <li> ✈️ Query Builder,</li>
+        <li> 👩‍🚀 Eloquent ORM,</li>
+        <li> 🚀 Relationships, and Polymorphism</li>
+        <li> ⚖️ Service Container, Service Provider, Queue Jobs, and Facade</li>
+        <li> 👨‍🔧 Task Scheduling</li>
+        <li> 🚒 Refactoring queries and optimizing memory usage</li>
+        <li> 🎨 Object-oriented programming </li>
+        <li> 🔧 SOLID principles </li>
+        <li> 🔬 Modular development as well as numbers, statistics and calculations...</li>
 </ul>
 
 
