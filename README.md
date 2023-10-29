@@ -63,7 +63,6 @@ I have worked both independently and in teams as a remote frontend and backend d
 <code><img height="35rem" src="img/wp.png"/></code>
 <code><img height="35rem" src="img/laravel.webp"/></code>
 <code><img height="35rem" src="img/symfony-logo.png"/></code>
-<code><img height="35rem" src="img/vue-icon-512x512-ne4r9aa8.png"/></code>
 <code><img height="35rem" src="img/navicat.jfif"/></code>
 <code><img height="35rem" src="img/photoshop.PNG"/></code>
 <code><img height="35rem" src="img/phpstorm.jpg"/></code>
