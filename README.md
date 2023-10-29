@@ -1,6 +1,6 @@
 ### Hey ! Nice to see you 
 
-### 👨‍💻 Web application developer & Designer
+### 👨‍💻 Web application developer & designer
 
 <hr>
 
