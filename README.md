@@ -6,7 +6,7 @@
 
 
 <p>
-I have experience working in an agile environment and have also built SaaS applications for various startups. 
+experience working in an agile environment and have also built SaaS applications for various startups. 
 I have worked both independently and in teams as a remote frontend and backend developer
 </p>
 
