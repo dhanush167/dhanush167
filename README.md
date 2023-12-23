@@ -17,7 +17,7 @@ I have worked both independently and in teams as a remote frontend and backend  
 <ul>
         <li> 🏹 Developing enterprise software applications </li>
         <li> 🤿 Integrating payment gateways</li>
-        <li> 🎷 Creating e-commerce applications</li>
+        <li> 🎷 Creating e-commerce web applications</li>
         <li> 🎻 Setting up deployment servers from scratch on Ubuntu</li>
 </ul>
 
