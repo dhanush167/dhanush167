@@ -1,13 +1,13 @@
 ### Hey ! Nice to see you 
 
-### 👨‍💻 Web application developer / designer
+### 👨‍💻 Fullstack Software developer 
 
 <hr>
 
 
 <p>
 experience working in an agile environment and have also built SaaS applications for various startups. 
-I have worked both independently and in teams as a remote frontend and backend developer
+I have worked both independently and in teams as a remote frontend and backend software developer
 </p>
 
 
