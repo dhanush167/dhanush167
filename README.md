@@ -15,7 +15,7 @@ I have worked both independently and in teams as a remote frontend and backend  
 <p> Since 2019, I have actively utilized Laravel for: </p>
 
 <ul>
-        <li> 🏹 Developing enterprise applications </li>
+        <li> 🏹 Developing enterprise software applications </li>
         <li> 🤿 Integrating payment gateways</li>
         <li> 🎷 Creating e-commerce web applications</li>
         <li> 🎻 Setting up deployment servers from scratch on Ubuntu</li>
