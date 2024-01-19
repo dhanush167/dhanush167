@@ -1,6 +1,6 @@
 ### Hey ! Nice to see you 
 
-### 👨‍💻 Fullstack  developer 
+### 👨‍💻 Fullstack  developer | WEB AND SOFTWARE 
 
 <hr>
 
