@@ -48,7 +48,7 @@ I have worked both independently and in teams as a remote frontend and backend  
         <li> 👨‍🔧 Task Scheduling</li>
         <li> 🚒 Refactoring queries and optimizing memory usage</li>
         <li> 🎨 Object-oriented programming </li>
-        <li> 🔧 SOLID principles and UNIT testing </li>
+        <li> 🔧 Algorithm,Design Pattern,SOLID principles and UNIT testing </li>
         <li> 🔬 Modular development as well as numbers, statistics and calculations...</li>
 </ul>
 
