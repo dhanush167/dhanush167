@@ -4,11 +4,11 @@
 
 <hr>
 
-### about me
+### About me
 
 <p>
-experience working in an agile environment and have also built SaaS applications for various startups. 
-I have worked both independently and in teams as a remote frontend and backend  developer
+I have experience working in an agile environment and have also built SaaS applications for various startups. 
+I have worked both independently and in teams as a remote frontend and backend developer
 </p>
 
 
