@@ -2,6 +2,23 @@
 ### 👨‍💻 Fullstack  developer
 
 <hr>
+<p>
+    <a href="https://dhanush167.hashnode.dev/">
+        https://dhanush167.hashnode.dev/
+    </a>
+</p>
+
+<p>
+    <a href="https://portfolio-4sm.pages.dev/">
+        https://portfolio-4sm.pages.dev/
+    </a>
+</p>
+
+<p>
+    <a href="in/dhanushka-gayan-951405170">
+        in/dhanushka-gayan-951405170
+    </a>
+</p>
 
 ### About me
 
@@ -70,23 +87,6 @@ I have worked both independently and in teams as a remote frontend and backend d
 
 <hr>
 
-<p>
-    <a href="https://dhanush167.hashnode.dev/">
-        https://dhanush167.hashnode.dev/
-    </a>
-</p>
-
-<p>
-    <a href="https://portfolio-4sm.pages.dev/">
-        https://portfolio-4sm.pages.dev/
-    </a>
-</p>
-
-<p>
-    <a href="in/dhanushka-gayan-951405170">
-        in/dhanushka-gayan-951405170
-    </a>
-</p>
 
 
 
