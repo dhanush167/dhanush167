@@ -15,8 +15,8 @@
 </p>
 
 <p>
-    <a href="in/dhanushka-gayan-951405170">
-        in/dhanushka-gayan-951405170
+    <a href="https://www.linkedin.com/in/dhanushka-gayan-951405170/">
+        https://www.linkedin.com
     </a>
 </p>
 
