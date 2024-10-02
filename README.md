@@ -23,8 +23,7 @@
 ### About me
 
 <p>
-I have experience working in an agile environment and have also built SaaS applications for various startups. 
-I have worked both independently and in teams as a remote frontend and backend developer
+I have worked in agile environments and developed SaaS applications for various startups. Additionally, I have experience working both independently and as part of a team as a remote front-end and back-end developer. I am proficient in Laravel development, with a strong focus on delivering flexible and scalable solutions efficiently. My background includes extensive hands-on experience in this area.
 </p>
 
 
