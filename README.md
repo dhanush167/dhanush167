@@ -80,6 +80,7 @@ I have worked in agile environments and developed SaaS applications for various 
 <code><img height="35rem" src="img/laravel.webp"/></code>
 <code><img height="35rem" src="img/symfony-logo.png"/></code>
 <code><img height="35rem" src="img/navicat.jfif"/></code>
+<code><img height="35rem" src="img/mac_os.JPG"/></code>
 <code><img height="35rem" src="img/photoshop.PNG"/></code>
 <code><img height="35rem" src="img/phpstorm.jpg"/></code>
 <code><img height="35rem" src="img/figma.PNG"/></code>
